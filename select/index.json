@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "カーテン",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-02-21T11:28:02.663400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カーテン",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/01_カーテン_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カーテン",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/02_カーテン_Machico.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カーテン・コール",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/03_カーテン・コール_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カーテン・コール - Curtain Call",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/04_カーテン・コール_-_Curtain_Call_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カーテン・コール",
+      "artist": "SOUL'd OUT",
+      "has_synced": false,
+      "path": "select/05_カーテン・コール_SOUL'd_OUT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カーテン",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_カーテン_菅原_圭.txt"
+    }
+  ]
+}
